@@ -1,0 +1,1 @@
+cscript uninstall_key.vbs
