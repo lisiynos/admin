@@ -12,6 +12,7 @@ Unattended installation for informatics olympiads
 * IntelliJ Idea Community: https://www.jetbrains.com/idea/download/
 * PyCharm Community Edition: https://www.jetbrains.com/pycharm/download/#section=windows
 * Pascal ABC: http://pascalabc.net/ssyilki-dlya-skachivaniya
+* Система программирования КуМир: https://www.niisi.ru/kumir/dl.htm
 
 Python
 ------
